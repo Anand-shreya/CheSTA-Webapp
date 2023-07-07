@@ -1,5 +1,5 @@
 .batchContainer {
     display: flex;
-    justify-content: center;
     gap: 171px;
+    justify-content: flex-start;
 }
