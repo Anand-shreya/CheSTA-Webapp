@@ -19,41 +19,41 @@
     {
       "year": 2021,
       "image": "./BRsImage/Pratham.png",
-      "name": "",
-      "email1": "",
-      "email2": ""
+      "name": "Pratham Garg",
+      "email1": "prathamgarg2728@gmail.com",
+      "email2": "g.pratham@iitg.ac.in"
     },
     {
       "year": 2021,
       "image": "./BRsImage/Sarthak.png",
-      "name": "",
-      "email1": "",
-      "email2": ""
+      "name": "Sarthak Kumar",
+      "email1": "shahsonal353@gmail.com",
+      "email2": "k.sarthak@iitg.ac.in"
     }
   ],
   [
     {
       "year": 2020,
       "image": "./BRsImage/Omkar.png",
-      "name": "",
-      "email1": "",
-      "email2": ""
+      "name": "Omkar G Chaudhari",
+      "email1": "chaudhariomkar2002@gmail.com",
+      "email2": "c.omkar@iitg.ac.in"
     },
     {
       "year": 2020,
       "image": "./BRsImage/Shyam.png",
-      "name": "",
-      "email1": "",
-      "email2": ""
+      "name": "Shyam D",
+      "email1": "shyamdhinakaran@gmail.com",
+      "email2": "d.shyam@iitg.ac.in"
     }
   ],
   [
     {
       "year": 2019,
       "image": "./BRsImage/Anshul.png",
-      "name": "",
-      "email1": "",
-      "email2": ""
+      "name": "Anshul Suthar",
+      "email1": "warofanshul@gmail.com",
+      "email2": "s.anshul@iitg.ac.in"
     }
   ]
 ]
