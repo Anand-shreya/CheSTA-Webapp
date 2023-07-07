@@ -3,12 +3,14 @@
     flex-direction: row;
     gap: 10px;
     align-items: center;
-    width: 385px;
+    max-width: 385px;
     height: 246px;
-    flex-shrink: 0;
+    /* flex-shrink: 0; */
     border-radius: 20px;
     transition: 0.65s;
     background: rgba(19, 183, 165, 0.10);
+    position: relative;
+    padding: 1vw;
 }
 
 .BRContainer:hover {
@@ -22,9 +24,7 @@
     gap: 10px;
     justify-content: space-around;
     height: 100%;
-    width: 50%;
-    position: relative;
-    left:-30px;
+    width: 20vw;
 }
 
 .brImage {
@@ -32,8 +32,9 @@
     height: 129px;
     flex-shrink: 0;
     border-radius: 50%;
-    left: -65px;
-    position: relative;
+    left: -45px;
+    top: 25%;
+    position: absolute;
 }
 
 .nameSection p {
@@ -56,9 +57,7 @@
     flex-direction: column;
     gap: 5px;
     height: 83px;
-    width: 185px;
-    position: relative;
-    bottom:26px
+    width: fit-content;
 }
 
 .contactDetails {

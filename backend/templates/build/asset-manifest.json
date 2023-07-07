@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77e8c2d3.css",
+    "main.js": "/static/js/main.e4ba2613.js",
+    "static/media/BG Image.png": "/static/media/BG Image.f5ae011e816dea7f28db.png",
+    "static/media/LandingScreenBG.png": "/static/media/LandingScreenBG.618f2e291039862c6823.png",
+    "static/media/IITGLogo.png": "/static/media/IITGLogo.dbbc95a6b70f5c4e1ea1.png",
+    "static/media/ChestaLogo.png": "/static/media/ChestaLogo.43f0d28081846e70c229.png",
+    "index.html": "/index.html",
+    "main.77e8c2d3.css.map": "/static/css/main.77e8c2d3.css.map",
+    "main.e4ba2613.js.map": "/static/js/main.e4ba2613.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77e8c2d3.css",
+    "static/js/main.e4ba2613.js"
+  ]
+}

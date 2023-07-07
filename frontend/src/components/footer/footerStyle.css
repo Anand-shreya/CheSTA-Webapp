@@ -3,14 +3,16 @@
     margin: 0px;
 }
 .Button{
-    position:relative;
-    right:73px;
+    position:absolute;
+    top: 18%;
+    left :73%;
     background-color: #366B96;
     border-radius: 70px;
     color:white;
     border: 0px;
     padding: 6px 12px;
-    width:auto;
+    width: 4vw;
+    font-size: 0.80vw;
 }
 .header{
     margin: 15px;

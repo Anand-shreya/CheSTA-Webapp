@@ -8,6 +8,8 @@
     border-bottom-right-radius: 4em;
     background-image: linear-gradient(to bottom, rgba(0,0,0,0.4), rgba(0,0,0,0));
     box-shadow: 0px 2em 3em -1px rgba(0, 0, 0, 1);
+    min-width: 100%;
+    margin: 0;
 }
 .curtainContainer {
     display: flex;
@@ -15,8 +17,7 @@
     padding-top: 4em;
     /* gap: 25vw; */
     align-items: left;
-    padding-left: 15vw;
-    padding-right: 15vw;
+    min-width: 100%;
   }
   .curtainLogoContainer {
     display: flex;
@@ -36,6 +37,6 @@
   justify-content: space-between;
 }
 .HeaderLogos{
-  width: 90px;
-  height: 90px;
+  width: 7vw;
+  height: 7vw;
 }

@@ -1,0 +1,30 @@
+.imageCol {
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+    width: 345px;
+    gap: 10px;
+    padding-top: 100px;
+}
+
+.image {
+    width: inherit;
+    height: 258px;
+    background: url(../images/dumImg.png), lightgray 50% / cover no-repeat;
+    border-radius: 20px;
+}
+
+.imageS {
+    width: inherit;
+    height: 258px;
+    background: url(../images/image\ 21.png), rgba(211, 211, 211, 0) 100% / cover ;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+}
+.imageColCenter {
+    display: flex;
+    flex-direction: column;
+    height: 1000px;
+    width: 345px;
+    gap: 10px;
+}
