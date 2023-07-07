@@ -18,15 +18,15 @@
 }
 
 /* Logo Section*/
-.Logo{
-  width:90px;
+.Logo {
+  width: 90px;
   position: relative;
-  top:3vw;
+  top: 3vw;
   left: 4vw;
 }
 
 /* CheSTA Text Title Section*/
-.blur{
+.blur {
   width: 80vw;
   height: 372px;
   flex-shrink: 0;
@@ -37,19 +37,19 @@
   backdrop-filter: blur(30px);
 }
 
-.Text-box{
+.Text-box {
   width: 80vw;
-  height:372px;
+  height: 372px;
   position: relative;
-  left:10vw;
+  left: 10vw;
   bottom: 3em;
 }
 
-.HeaderMiddleBlock{
+.HeaderMiddleBlock {
   display: flex;
   justify-content: left;
   gap: 2em;
-  height:105px;
+  height: 105px;
   flex-direction: row;
   position: relative;
   bottom: 20em;
@@ -79,11 +79,16 @@
   display: flex;
   position: relative;
   justify-content: space-between;
-  bottom:10vh;
-  padding-left:20vw;
-  padding-right:20vw;
-  gap:6vw;
+  bottom: 10vh;
+  padding-left: 20vw;
+  padding-right: 20vw;
+  gap: 6vw;
 }
-.chestaLogo{
+
+.chestaLogo {
   height: 300px;
+}
+
+.landingScreenButton {
+  border: 1px solid white;
 }
