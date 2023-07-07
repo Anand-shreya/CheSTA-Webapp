@@ -78,8 +78,10 @@
   /* width:70vw; */
   display: flex;
   position: relative;
+  justify-content: space-between;
   bottom:10vh;
   padding-left:20vw;
+  padding-right:20vw;
   gap:6vw;
 }
 .chestaLogo{

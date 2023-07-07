@@ -1,11 +1,11 @@
 .BRsPage {
+    background: #040C22;
     background-image: url('./images/BG\ Image.png');
     /* filter: brightness(80%); */
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
 }
-
 
 .batchYear {
     color: #FFF;
@@ -46,4 +46,11 @@
 }
 .sticky{
     position: fixed;
+}
+.buttongroup{
+    display: flex;
+  position: relative;
+  bottom:10vh;
+  padding-left:20vw;
+  gap:6vw;
 }

@@ -1,0 +1,59 @@
+[
+  [
+    {
+      "year": 2022,
+      "image": "BRsImage/Stock.png",
+      "name": "Yet to be announced",
+      "email1": "",
+      "email2": ""
+    },
+    {
+      "year": 2022,
+      "image": "./BRsImage/Stock.png",
+      "name": "Yet to be announced",
+      "email1": "",
+      "email2": ""
+    }
+  ],
+  [
+    {
+      "year": 2021,
+      "image": "./BRsImage/Pratham.png",
+      "name": "",
+      "email1": "",
+      "email2": ""
+    },
+    {
+      "year": 2021,
+      "image": "./BRsImage/Sarthak.png",
+      "name": "",
+      "email1": "",
+      "email2": ""
+    }
+  ],
+  [
+    {
+      "year": 2020,
+      "image": "./BRsImage/Omkar.png",
+      "name": "",
+      "email1": "",
+      "email2": ""
+    },
+    {
+      "year": 2020,
+      "image": "./BRsImage/Shyam.png",
+      "name": "",
+      "email1": "",
+      "email2": ""
+    }
+  ],
+  [
+    {
+      "year": 2019,
+      "image": "./BRsImage/Anshul.png",
+      "name": "",
+      "email1": "",
+      "email2": ""
+    }
+  ]
+]
