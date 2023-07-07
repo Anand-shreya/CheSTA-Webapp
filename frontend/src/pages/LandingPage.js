@@ -5,7 +5,7 @@ import Footer from "../components/footer/footer";
 
 import "./pages.css";
 import Loader from "../components/Loader/Loader";
-function LandingPage(){
+function LandingPage() {
 
     // const [isLoading, setIsLoading] = useState(true);
     // const [data, setData] = useState(null);
@@ -36,7 +36,7 @@ function LandingPage(){
     //     fetchData();
     // }, []);
 
-    return(
+    return (
         <div>
             {/* {isLoading ? (
                 <Loader />
@@ -53,11 +53,13 @@ function LandingPage(){
             <div className="LandingPage">
                 <LandingScreen></LandingScreen>
                 <About></About>
-                <Footer></Footer>
+                <div id="footerRoute">
+                    <Footer></Footer>
+                </div>
             </div>
 
             <div className="grad"></div>
-         </div>
+        </div>
     )
 }
 export default LandingPage;

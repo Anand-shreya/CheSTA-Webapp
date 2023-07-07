@@ -1,0 +1,7 @@
+.buttongroup{
+    display: flex;
+  position: relative;
+  bottom:10vh;
+  padding-left:20vw;
+  gap:6vw;
+}

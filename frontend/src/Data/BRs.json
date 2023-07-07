@@ -1,0 +1,59 @@
+[
+  [
+    {
+      "year": 2022,
+      "image": "https://i.imgur.com/SWjmLwZ.png",
+      "name": "Yet to be announced",
+      "email1": "",
+      "email2": ""
+    },
+    {
+      "year": 2022,
+      "image": "https://i.imgur.com/SWjmLwZ.png",
+      "name": "Yet to be announced",
+      "email1": "",
+      "email2": ""
+    }
+  ],
+  [
+    {
+      "year": 2021,
+      "image": "https://i.imgur.com/OOojy1k.png",
+      "name": "Pratham Garg",
+      "email1": "prathamgarg2728@gmail.com",
+      "email2": "g.pratham@iitg.ac.in"
+    },
+    {
+      "year": 2021,
+      "image": "https://i.imgur.com/JJXQQfk.png",
+      "name": "Sarthak Kumar",
+      "email1": "shahsonal353@gmail.com",
+      "email2": "k.sarthak@iitg.ac.in"
+    }
+  ],
+  [
+    {
+      "year": 2020,
+      "image": "https://i.imgur.com/diVYN78.png",
+      "name": "Omkar G Chaudhari",
+      "email1": "chaudhariomkar2002@gmail.com",
+      "email2": "c.omkar@iitg.ac.in"
+    },
+    {
+      "year": 2020,
+      "image": "https://i.imgur.com/ukyYWdR.png",
+      "name": "Shyam D",
+      "email1": "shyamdhinakaran@gmail.com",
+      "email2": "d.shyam@iitg.ac.in"
+    }
+  ],
+  [
+    {
+      "year": 2019,
+      "image": "https://i.imgur.com/7nrd9iE.png",
+      "name": "Anshul Suthar",
+      "email1": "warofanshul@gmail.com",
+      "email2": "s.anshul@iitg.ac.in"
+    }
+  ]
+]

@@ -10,14 +10,17 @@
 .image {
     width: inherit;
     height: 258px;
-    background: url(../images/dumImg.png), lightgray 50% / cover no-repeat;
-    border-radius: 20px;
+    background: url(https://www.iitg.ac.in/chem/banner/81c4240aadc68e17b3cd674585b657fa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 20px
 }
 
 .imageS {
     width: inherit;
     height: 258px;
-    background: url(../images/image\ 21.png), rgba(211, 211, 211, 0) 100% / cover ;
+    background: url(../../../components/Images/Logos/image\ 21.png), rgba(211, 211, 211, 0) 100% / cover ;
     background-repeat: no-repeat;
     border-radius: 20px;
 }
