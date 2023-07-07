@@ -1,12 +1,9 @@
-import Curtain from "../curtain/curtain";
 import NavBar from "../navBar/navBar";
 import Footer from "../footer/footer";
 import "./BrPage.css";
 import Batch from "./Batch/Batch";
 import BRsData from "../../Data/BRs.json";
-import { useEffect } from "react";
-
-const BrPage = ({ userData }) => {
+const BrPage = () => {
   return (
     <div className="BRsPage">
       <NavBar></NavBar>

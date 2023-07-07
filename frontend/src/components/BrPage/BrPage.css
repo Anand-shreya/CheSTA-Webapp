@@ -1,6 +1,6 @@
 .BRsPage {
     background: #040C22;
-    background-image: url('./images/BG\ Image.png');
+    background-image: url(../Images/background/BG\ Image.png);
     /* filter: brightness(80%); */
     background-repeat: no-repeat;
     background-position: center;

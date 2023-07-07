@@ -56,7 +56,7 @@
     /* background-color: #010922; */
 }
 .GalleryBody {
-    background-image: url('./images/BG\ Image.png');
+    background-image: url(../../components/Images/background/BG\ Image.png);
     /* filter: brightness(80%); */
     background-repeat: no-repeat;
     background-position: center;
@@ -68,7 +68,8 @@
     width: 90.221px;
     height: 59.081px;
     flex-shrink: 0;
-    background-image: url(./images/downArrow.png);
+    /* background-image: url(./images/downArrow.png); */
+    background-image: url(../../components/Images/Logos/downArrow.png);
 }
 
 .footerText {
