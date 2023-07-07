@@ -10,15 +10,15 @@ import Text from "./components/LandingScreen/CheSTA_text";
 import Gallery from "./pages/Gallery/Gallery";
 function App() {
   return (
-    <div style={{minWidth: "100%"}} >
+    <div style={{ minWidth: "100%" }} >
       {/* <LandingScreen></LandingScreen> */}
-      <Footer />
+      {/* <Footer /> */}
       {/* <Curtain></Curtain> */}
       {/* <Student_profile/> */}
       {/* <Student_profile/> */}
       {/* <About></About> */}
       {/* <LandingPage></LandingPage> */}
-      {/* <BrPage></BrPage> */}
+      <BrPage></BrPage>
       {/* <Gallery /> */}
     </div>
   );
