@@ -13,7 +13,7 @@
     color: white;
     border: 0px;
     padding: 1em 2vw 1em;/*just replace em in place of vw*/
-    font-size: .8em; /*Changed to vw just for now*/
+    font-size: .9em; /*Changed to vw just for now*/
     transition: all 0.30s;
     border-radius: 25px;
     /* min-width: 5vw; */

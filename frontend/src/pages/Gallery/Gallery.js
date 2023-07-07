@@ -1,5 +1,5 @@
 import Footer from '../../components/footer/footer';
-import Curtain from '../../components/curtain/curtain';
+import NavBar from '../../components/navBar/navBar';
 import ImageCol from './comp/ImageCol';
 import ImageColM from './comp/imageColM';
 import './Gallery.css';
@@ -7,7 +7,7 @@ import './Gallery.css';
 const Gallery = () => {
     return (<div>
         <div className='GalleryBody'>
-        <Curtain />
+        <NavBar></NavBar>
         <div className='midSection'>
             <div className='headerGallery'>
                 <div className='headerText'>

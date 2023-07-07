@@ -10,8 +10,10 @@
 .image {
     width: inherit;
     height: 258px;
-    background: url(../images/dumImg.png), lightgray 50% / cover no-repeat;
-    border-radius: 20px;
+    background: url(https://www.iitg.ac.in/chem/banner/81c4240aadc68e17b3cd674585b657fa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px
 }
 
 .imageS {
